@@ -1,0 +1,17 @@
+classpath:C:\Users\bigbe\.m2\repository\org\openjfx\javafx-controls\25.0.5\javafx-controls-25.0.5.jar	306:1794765408353
+classpath:C:\Users\bigbe\.m2\repository\org\openjfx\javafx-graphics\25.0.5\javafx-graphics-25.0.5.jar	306:1794765408403
+classpath:C:\Users\bigbe\.m2\repository\org\openjfx\javafx-base\25.0.5\javafx-base-25.0.5.jar	302:1794765408403
+classpath:C:\Users\bigbe\.m2\repository\com\google\googlejavaformat\google-java-format\1.37.0\google-java-format-1.37.0.jar	338810:1790856891000
+classpath:C:\Users\bigbe\.m2\repository\com\google\guava\guava\33.6.0-jre\guava-33.6.0-jre.jar	3064793:1776190418000
+classpath:C:\Users\bigbe\.m2\repository\com\google\guava\failureaccess\1.0.3\failureaccess-1.0.3.jar	10763:1742400951000
+classpath:C:\Users\bigbe\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar	2199:1536694843000
+classpath:C:\Users\bigbe\.m2\repository\org\jspecify\jspecify\1.0.0\jspecify-1.0.0.jar	3819:1721163610000
+classpath:C:\Users\bigbe\.m2\repository\com\google\j2objc\j2objc-annotations\3.1\j2objc-annotations-3.1.jar	16762:1755193789000
+classpath:C:\Users\bigbe\.m2\repository\org\commonmark\commonmark\0.29.0\commonmark-0.29.0.jar	216091:1781940021000
+classpath:C:\Users\bigbe\.m2\repository\org\commonmark\commonmark-ext-gfm-tables\0.29.0\commonmark-ext-gfm-tables-0.29.0.jar	23057:1781940022000
+modulepath:C:\Users\bigbe\Desktop\Practice\Java\Practice\Learning-GUI\chatty-chat-clean\target\classes	3:704dfd154f5fceccf4a1f264e4b1e7f34fe516873b4766ae013be782ddc17511
+modulepath:C:\Users\bigbe\.m2\repository\com\google\code\gson\gson\2.13.1\gson-2.13.1.jar	286972:1794851171478
+modulepath:C:\Users\bigbe\.m2\repository\com\google\errorprone\error_prone_annotations\2.38.0\error_prone_annotations-2.38.0.jar	20389:1794851171514
+modulepath:C:\Users\bigbe\.m2\repository\org\openjfx\javafx-controls\25.0.5\javafx-controls-25.0.5-win.jar	2602958:1794765409572
+modulepath:C:\Users\bigbe\.m2\repository\org\openjfx\javafx-graphics\25.0.5\javafx-graphics-25.0.5-win.jar	6099182:1794765409893
+modulepath:C:\Users\bigbe\.m2\repository\org\openjfx\javafx-base\25.0.5\javafx-base-25.0.5-win.jar	749085:1794765408721

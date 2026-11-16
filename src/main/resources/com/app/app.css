@@ -1,0 +1,69 @@
+.root {
+    -fx-background-color: #0B1F3A;
+}
+
+.label {
+    -fx-text-fill: #FFFFFF;
+}
+
+.category-header {
+    -fx-background-color: #00838F;
+    -fx-background-radius: 14px;
+    -fx-padding: 8px 16px;
+    -fx-text-fill: #FFFFFF;
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+}
+
+.message-card {
+    -fx-background-color: #0B1F3A;
+    -fx-background-radius: 15px;
+    -fx-border-color: #FFFFFF;
+    -fx-border-radius: 15px;
+    -fx-border-width: 2px;
+    -fx-padding: 14px;
+}
+
+.button {
+    -fx-background-color: #5AA9E6;
+    -fx-text-fill: #FFFFFF;
+    -fx-font-weight: bold;
+    -fx-min-width: 240px;
+    -fx-pref-width: 240px;
+    -fx-max-width: 240px;
+    -fx-min-height: 40px;
+    -fx-pref-height: 40px;
+    -fx-max-height: 40px;
+    -fx-background-radius: 5px;
+    -fx-cursor: hand;
+}
+
+.button:hover {
+    -fx-background-color: #78B9EB;
+}
+
+.button:pressed {
+    -fx-background-color: #398BC9;
+}
+
+.button:disabled {
+    -fx-opacity: 0.65;
+}
+
+.text-field,
+.password-field {
+    -fx-background-color: #646464;
+    -fx-control-inner-background: #D3D3D3;
+    -fx-text-fill: #ffffff;
+    -fx-prompt-text-fill: #FFFFFF;
+    -fx-highlight-fill: #0091ff;
+    -fx-highlight-text-fill: #FFFFFF;
+    -fx-border-color: #0084ff;
+    -fx-border-radius: 4px;
+    -fx-background-radius: 4px;
+}
+
+.scroll-pane,
+.scroll-pane > .viewport {
+    -fx-background-color: #0B1F3A;
+}
