@@ -1,1 +1,3 @@
-com\mycompany\project1\Project1.class
+module-info.class
+com\app\App.class
+com\app\App$MessageReport.class
